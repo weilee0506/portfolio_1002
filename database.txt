@@ -1,0 +1,12 @@
+email, subject, message
+s@q, 1, 1
+q@q, zz, zz
+q@q, q, q
+w@2, 2, 2
+d@d, d, d
+d@d, d, d
+d@d, d, d
+d@d, d, d
+d@d, d, d
+d@d, d, d
+d@d, d, d
